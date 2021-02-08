@@ -1,0 +1,10 @@
+{
+  "name": "preact-tsc-yarn-workspace-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:osdiab/preact-tsc-yarn-workspace-issue.git",
+  "author": "Omar Diab <me@omardiab.com>",
+  "license": "MIT",
+  "workspaces": ["packages/*"],
+  "private": true
+}
